@@ -1,4 +1,4 @@
-# Kaisen_Yao_IDS706_Week8 - Rust Command-Line Tool
+# Kaisen_Yao_IDS706_Week7 - Rust Command-Line Tool
 
 [![CI](https://github.com/nogibjj/Kaisen_Yao_IDS706_Week8/actions/workflows/CI.yml/badge.svg)](https://github.com/nogibjj/Kaisen_Yao_IDS706_Week8/actions/workflows/CI.yml)
 
